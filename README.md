@@ -1,4 +1,4 @@
-# Popaction — Movie Ticket Reservation System
+# Popaction : Movie Ticket Reservation System
 
 Popaction is a logic-driven movie ticket reservation application built to
 demonstrate end-to-end system design under constrained resources.
