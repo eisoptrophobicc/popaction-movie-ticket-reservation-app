@@ -1,9 +1,9 @@
 # Popaction : Movie Ticket Reservation System
 
-![Language](https://img.shields.io/badge/Language-Python-yellow?logo=python&style=for-the-badge&logoSize=auto)
-![Database](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql&style=for-the-badge&logoSize=auto)
-![UI](https://img.shields.io/badge/UI-CustomTkinter-purple?logo=python&style=for-the-badge&logoSize=auto)
-![License](https://img.shields.io/badge/License-MIT-green?logo=github&style=for-the-badge&logoSize=auto)
+![Language](https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge&logoSize=auto)
+![Database](https://img.shields.io/badge/MySQL-orange?logo=mysql&style=for-the-badge&logoSize=auto)
+![UI](https://img.shields.io/badge/CustomTkinter-purple?logo=python&style=for-the-badge&logoSize=auto)
+![License](https://img.shields.io/badge/MIT-green?logo=github&style=for-the-badge&logoSize=auto)
 
 Popaction is a logic-driven movie ticket reservation application built to
 demonstrate end-to-end system design under constrained resources.
