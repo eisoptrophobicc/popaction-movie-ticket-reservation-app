@@ -46,3 +46,4 @@ rather than production deployment or scalability.
 ```bash
 pip install -r requirements.txt
 python popaction.py
+```
