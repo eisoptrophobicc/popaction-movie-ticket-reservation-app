@@ -4,3 +4,4 @@ dist/
 *.spec
 config/config.json
 .venv/
+.vscode/
